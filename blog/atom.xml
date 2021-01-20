@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://i01y.top/blog</id>
+    <title>风之天书 Blog</title>
+    <updated>2020-01-20T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://i01y.top/blog"/>
+    <subtitle>风之天书 Blog</subtitle>
+    <icon>https://i01y.top/img/leaf.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[Start]]></title>
+        <id>init</id>
+        <link href="https://i01y.top/blog/init"/>
+        <updated>2020-01-20T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Hello World]]></summary>
+    </entry>
+</feed>
