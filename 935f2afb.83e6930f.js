@@ -1,1 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[11],{82:function(e){e.exports=JSON.parse('{"pluginId":"default","version":"current","label":"Next","isLast":true,"docsSidebars":{"docs":[{"type":"link","label":"Main","href":"/docs/"},{"type":"link","label":"About","href":"/docs/about"}]},"permalinkToSidebar":{"/docs/about":"docs","/docs/":"docs"}}')}}]);
